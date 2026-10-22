@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Erik%20Souza&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20%26%20Process%20Automation&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Erik%20Souza&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20and%20Process%20Automation&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://github.com/ErikSouzaDev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=2C9AB7&center=true&vCenter=true&width=600&lines=Analista+de+Dados+%7C+Data+Analyst;Automa%C3%A7%C3%A3o+de+processos+com+n8n+%26+Make;Integrating+data%2C+processes+and+tools;Recife%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
